@@ -14,5 +14,5 @@ I'm Antony, a passionate developer diving deep into the world of blockchain.
 - Develop my own Smart Contracts for various applications.
 
 ## 🤝 Let's Connect!
-Always open to collaborating on interesting projects or just chatting about tech. Feel free to reach out!
-
+Always open to collaborating on interesting projects or just chatting about tech. 
+- 📧 Email: pintoavila09@gmail.com
